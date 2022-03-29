@@ -1,0 +1,1 @@
+This is the Akan name generator project.
